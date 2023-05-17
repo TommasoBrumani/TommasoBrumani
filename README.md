@@ -8,9 +8,9 @@
 
 <p>
 
-👱‍♂️ I'm <b>Tommaso Brumani</b> (or <b>Tom</b> for short), a `Computer Science and Engineering` student specializing in `Machine Learning and Data Science`.
+👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Data Scientist` with a background in `Software Engineering`, and an interest in `MLOps`.
 
-📚 I am currently enrolled in a EU-sponsored <b>Double Master's Degree</b> program with a major in `Machine Learning and Data Science` and a minor in `Entrepreneurship and Innovaion`, conducting my first year in <b>Politecnico of Milano</b>, Italy, and my second year in <b>Aalto University</b>, Finland.
+📚 I am currently finishing my <b>Master's Thesis</b> on <b>Time Series Anomaly Detection</b> as part of my Master's Degree in `Machine Learning and Data Science`, with a minor in `Entrepreneurship and Innovation`.
 
 ---
 <p align="center" style="font-weight:bold"> 
@@ -19,10 +19,14 @@
 
 💼 <b>Work Experience:</b>
 
+* `Master's Thesis Worker - Data Science` @ [`Ericsson`](https://www.ericsson.com/) : autonomously developed a microservices-based anomaly detection system for time series data over the span of 6 months. Performed data cleaning and feature engineering over a dataset of 4K+ time series, and selected and tuned several algorithms for the purpose of anomaly detection.
+  
 * `Backend Developer` @ [`SorintLab`](https://www.sorint.com/) : worked for 1 year as a part-time developer, maintainer, and pipeline administrator on an internal application for reserving office spaces in various offices worldwide. 
 
 🔨 <b>Most Interesting Projects:</b>
 
+* [`Complex Networks Exercises`](https://github.com/TommasoBrumani/complex-networks-exercises) : a series of exercises on the topic of complex networks, exploring various kinds of network analysis algorithms and operations. Assignment for a Complex Networks course.
+* [`Reinforcement Learning Exercises`](https://github.com/TommasoBrumani/reinforcement-learning-exercises) : a series of exercises implementing various kinds of reinforcement learning algorithms. Assignment for a Reinforcement Learning Course.
 * [`ANN for Multivariate Time Series Forecasting`](https://github.com/TommasoBrumani/multivariate-time-series-forecasting) : a deep learning model used to predict a multivariate time series. Group assignment for an Artificial Neural Networks and Deep Learning course.
 * [`ANN for Leaf Image Classification`](https://github.com/TommasoBrumani/leaf-classificator) : a deep learning model used to classify images of leaves. Group assignment for an Artificial Neural Networks and Deep Learning course.
 * [`Recommender System for Movie Recommendations`](https://github.com/TommasoBrumani/movie-recommender-system) : a repository containing multiple versions of hybrid recommender models to optimize the recommendation of movies to specific users. Base recommender models were already provided. Group assignment for a Recommender Systems course.
