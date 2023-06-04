@@ -8,7 +8,7 @@
 
 <p>
 
-👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Data Scientist` with a background in `Software Engineering`, and an interest in `MLOps`.
+👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a background in `Data Science` and `Software Engineering`, with a deep interest in MLOps and the potential applications of Artificial Intelligence on real-world business problems and scenarios.
 
 📚 I am currently finishing my <b>Master's Thesis</b> on <b>Time Series Anomaly Detection</b> as part of my Master's Degree in `Machine Learning and Data Science`, with a minor in `Entrepreneurship and Innovation`.
 
@@ -19,7 +19,7 @@
 
 💼 <b>Work Experience:</b>
 
-* `Master's Thesis Worker - Data Science` @ [`Ericsson`](https://www.ericsson.com/) : autonomously developed a microservices-based anomaly detection system for time series data over the span of 6 months. Performed data cleaning and feature engineering over a dataset of 4K+ time series, and selected and tuned several algorithms for the purpose of anomaly detection.
+* `Machine Learning Engineer - Master's Thesis Worker` @ [`Ericsson`](https://www.ericsson.com/) : autonomously developed a microservices-based anomaly detection system for time series data over the span of 6 months. Performed data cleaning and feature engineering over a dataset of 4K+ time series, selected and tuned several algorithms for the purpose of anomaly detection, and implemented the final ensemble system as microservice.
   
 * `Backend Developer` @ [`SorintLab`](https://www.sorint.com/) : worked for 1 year as a part-time developer, maintainer, and pipeline administrator on an internal application for reserving office spaces in various offices worldwide. 
 
