@@ -19,7 +19,7 @@
 
 💼 <b>Work Experience:</b>
 
-* `Machine Learning Engineer - Master's Thesis Worker` @ [`Ericsson`](https://www.ericsson.com/) : autonomously developed a microservices-based anomaly detection system for time series data over the span of 6 months. Performed data cleaning and feature engineering over a dataset of 4K+ time series, selected and tuned several algorithms for the purpose of anomaly detection, and implemented the final ensemble system as microservice.
+* `Machine Learning Engineer - Master's Thesis Worker` @ [`Ericsson`](https://www.ericsson.com/) : developed a microservices-based autonomous anomaly detection system for time series data. Performed data cleaning and processing operations for large numbers of time series, selected and trained anomaly detection models based on machine learning, and designed a pipeline for the continuous operation of the system.
   
 * `Backend Developer` @ [`SorintLab`](https://www.sorint.com/) : worked for 1 year as a part-time developer, maintainer, and pipeline administrator on an internal application for reserving office spaces in various offices worldwide. 
 
