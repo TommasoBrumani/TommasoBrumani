@@ -8,9 +8,9 @@
 
 <p>
 
-👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a background in `Data Science` and `Software Engineering`, who has a deep interest in MLOps and the practical application of Artificial Intelligence to real-world business problems.
+👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a Master of Science in `Data Science` and `Software Engineering`, who has a deep interest in MLOps and the practical application of Artificial Intelligence to real-world business problems.
 
-📚 I am currently working as a Machine Learning Engineer at `Ericsson`, and about to graduate from the EIT Digital Master's Degree Program in `Machine Learning and Data Science`, with a minor in `Entrepreneurship and Innovation`, at Aalto University and Politecnico di Milano.
+📚 I am currently working as a Machine Learning Engineer at `Ericsson`, and have recently graduated from the EIT Digital Master's Degree Program in `Data Science`, with a minor in `Entrepreneurship and Innovation`, at Aalto University and Politecnico di Milano. I am also in the process of studying to deepen my knowledge of MLOps and its implementation in leading cloud computing services platforms.
 
 ---
 <p align="center" style="font-weight:bold"> 
