@@ -19,9 +19,9 @@
 
 💼 <b>Work Experience:</b>
 
-* `Machine Learning Engineer` @ [`Ericsson`](https://www.ericsson.com/) : developed a microservices-based anomaly detection system for time series data in `Python`. Engineered a scalable time series processing pipeline for large quantities of time series data using `PySpark`. Created an autonomous training process for machine learning anomaly detection models, using data and model versioning. Designed the continuous operation of the full system as a collaboration of three microservices, dedicated to data processing, model training, and anomaly detection, respectively.
+* `Machine Learning Engineer` @ [`Ericsson`](https://www.ericsson.com/) [current]
   
-* `Backend Developer` @ [`SorintLab`](https://www.sorint.com/) : developed the backend of a cloud-native, internal web application used by company employees to reserve office spaces in various locations worldwide. Managed and migrated the application's CI/CD pipeline, initially using `Jenkins` and, later, using an internal DevOps platform. Created extensive, automated unit and integration testing for the application's backend and database, and integrated them with the CI/CD pipeline.
+* `Backend Developer` @ [`SorintLab`](https://www.sorint.com/)
 
 🔨 <b>Most Interesting Public Projects:</b>
 
@@ -35,10 +35,10 @@
 🌱 <b>Hobbies:</b>
 
 * 🥋 Martial Arts (currently Krav Maga)
-* 🖊️ Drawing (mostly digitally)
-* 🎬 Narrative Media (Videogames, Books, Movies, TV Series, you name it!)
-* 🎲 Tabletop games and RPGs
-* 🎹 Playing Music (currently Piano)
+* 🖊️ Digital drawing
+* 🎬 Cinema and TV series
+* 🎲 Gaming and TTRPGs
+* 🎹 Playing the piano
 
 ---
 <p align="center" style="font-weight:bold"> 
