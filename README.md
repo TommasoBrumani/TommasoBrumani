@@ -10,7 +10,7 @@
 
 👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a Master of Science in `Data Science` and `Software Engineering`, who has a deep interest in MLOps and the practical application of Artificial Intelligence to real-world business problems.
 
-📚 I am currently working as a Machine Learning Engineer at `Ericsson`, and have recently graduated from the EIT Digital Master's Degree Program in `Data Science`, with a minor in `Entrepreneurship and Innovation`, at Aalto University and Politecnico di Milano. I am also in the process of studying to deepen my knowledge of MLOps and its implementation in leading cloud computing services platforms.
+📚 I am currently working as a ML Engineer at `Microsoft`, where I support Data Scientist by designing and implementing the MLOps infrastructure surrounding their models, automating the cumbersome steps of the model training and deployment process.
 
 ---
 <p align="center" style="font-weight:bold"> 
@@ -19,7 +19,9 @@
 
 💼 <b>Work Experience:</b>
 
-* `Machine Learning Engineer` @ [`Ericsson`](https://www.ericsson.com/) [current]
+* `Machine Learning Engineer II` @ [`Ericsson`](https://ww.microsoft.com/) [current]
+
+* `Machine Learning Engineer` @ [`Ericsson`](https://www.ericsson.com/)
   
 * `Backend Developer` @ [`SorintLab`](https://www.sorint.com/)
 
@@ -34,9 +36,9 @@
 
 🌱 <b>Hobbies:</b>
 
-* 🥋 Martial Arts (currently Krav Maga)
+* 🥋 Martial Arts
 * 🖊️ Digital drawing
-* 🎬 Cinema and TV series
+* 🍝 Cooking
 * 🎲 Gaming and TTRPGs
 * 🎹 Playing the piano
 
