@@ -1,5 +1,5 @@
 <p align="center" style="font-weight:bold"> 
-👋 <b>Hello, friend.</b> 👋 
+🤖 <b>Hello, friend.</b> 🤖
 <p>
 
 ---
@@ -8,7 +8,7 @@
 
 <p>
 
-👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a Master of Science in `Data Science` and `Software Engineering`, who has a deep interest in MLOps and the practical application of Artificial Intelligence to real-world business problems.
+👱‍♂️ I'm <b>Tommaso Brumani</b>, a `Machine Learning Engineer` with a background in `Data Science` and `Software Engineering`, who has a deep interest in MLOps and the practical application of Artificial Intelligence to real-world business problems.
 
 📚 I am currently working as a ML Engineer at `Microsoft`, where I support Data Scientist by designing and implementing the MLOps infrastructure surrounding their models, automating the cumbersome steps of the model training and deployment process.
 
@@ -19,7 +19,7 @@
 
 💼 <b>Work Experience:</b>
 
-* `Machine Learning Engineer II` @ [`Ericsson`](https://ww.microsoft.com/) [current]
+* `Machine Learning Engineer II` @ [`Microsoft`](https://ww.microsoft.com/) [current]
 
 * `Machine Learning Engineer` @ [`Ericsson`](https://www.ericsson.com/)
   
